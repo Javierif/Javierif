@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Javier Iniesta Fernández</h1>
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f7bbb432-1345-4ced-86f7-dac16d5df525" /><h1 align="center">👋 ¡Hola! Soy Javier Iniesta Fernández</h1>
 <h3 align="center">Data & AI Architect | Diseñando Ecosistemas de Datos Inteligentes</h3>
 
 <p align="center">
@@ -23,17 +23,25 @@ Data Mesh, RAG y ML en producción. Construyo soluciones donde la IA amplifica e
 *(Carrusel horizontal compatible con GitHub)*
 
 <div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px;">
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=Azure+Bootcamp+2025" width="300">
+  <!-- Shiu Podcast -->
+  <a href="https://www.youtube.com/watch?v=zi8kEP1SbB4" target="_blank">
+    <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEVICb6vi43CA/articleshare-shrink_800/B4DZaFz6GVGgAQ-/0/1746001699749?e=1764010800&v=beta&t=43qOL7LpQidJHIAfq9XK35MKzozRJRYhH4cKQwiOxYE" width="300" alt="Shiu Podcast Javier Iniesta">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=.NET+Málaga+2019" width="300">
+  <!-- IA salvador Europa -->
+  <a href="https://www.linkedin.com/pulse/la-ia-es-el-salvador-de-una-europa-acomodada-javier-iniesta-fernandez-l1wxf/" target="_blank">
+    <img src="https://www.linkedin.com/pulse/la-ia-es-el-salvador-de-una-europa-acomodada-javier-iniesta-fernandez-l1wxf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Brxc0nLc1RISm3DHgAzbxWg%3D%3D" width="300" alt="La IA es el salvador de una Europa acomodada">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=Fabric+Eventhouse" width="300">
+  <!-- Codemotion 23 -->
+  <a href="https://www.youtube.com/watch?v=2mSB5XROJs0" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a56356c3-ef64-4d10-a71e-0b1844267e3f" width="300" alt="Codemotion Javier Iniesta">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=Azure+Synapse+Link" width="300">
+  <!-- Fabric Eventhouse -->
+  <a href="https://www.compartimoss.com/revistas/numero-61/microsoft-fabric-azure-data-explorer/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQFF9GPxKf3ySQ/articleshare-shrink_800/articleshare-shrink_800/0/1726650858328?e=1764014400&v=beta&t=1A5Mmkx0LkBYfM0DlPeh_P_18M8fLrIO_x4f88qiIXM" width="300" alt="Fabric Eventhouse artículo">
+  </a>
+  <!-- Predicción Demanda -->
+  <a href="https://www.linkedin.com/pulse/predicci%C3%B3n-de-demanda-con-azure-machine-learning-y-ml-javier/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/159ce06b-f486-42cc-b4d5-084341335d90" width="300" alt="Predicción de demanda Azure ML">
   </a>
 </div>
 

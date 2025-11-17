@@ -25,7 +25,7 @@ Si te interesa explorar cómo la IA puede acelerar la innovación, ¡conversemos
 <tr>
 <td align="center" width="96">
 <a href="https://docs.microsoft.com/es-es/azure/">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure">
 </a>
 
 
@@ -35,7 +35,7 @@ Azure
 </td>
 <td align="center" width="96">
 <a href="https://databricks.com/">
-<img src="https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Databricks">
+<img src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" alt="Databricks">
 </a>
 
 
@@ -45,7 +45,7 @@ Databricks
 </td>
 <td align="center" width="96">
 <a href="https://spark.apache.org/">
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapachespark%26logoColor%3Dwhite" alt="Spark">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="Spark">
 </a>
 
 
@@ -55,7 +55,7 @@ Spark
 </td>
 <td align="center" width="96">
 <a href="https://www.microsoft.com/es-es/fabric">
-<img src="https://img.shields.io/badge/MS_Fabric-3C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft%26logoColor%3Dwhite" alt="Fabric">
+<img src="https://azure.microsoft.com/svghandler/microsoft-fabric/?width=600&amp;height=315" alt="Fabric">
 </a>
 
 
@@ -65,7 +65,7 @@ Fabric
 </td>
 <td align="center" width="96">
 <a href="https://azure.microsoft.com/es-es/products/synapse-analytics/">
-<img src="https://img.shields.io/badge/Azure_Synapse-00B2A0%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Synapse">
+<img src="https://azure.microsoft.com/svghandler/synapse-analytics/?width=600&amp;height=315" alt="Synapse">
 </a>
 
 
@@ -80,7 +80,7 @@ Synapse
 <tr>
 <td align="center" width="96">
 <a href="https://azure.microsoft.com/es-es/solutions/machine-learning/">
-<img src="https://img.shields.io/badge/Azure_ML-22C5E1%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure ML">
+<img src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/1.5.2025102109/1761104226274/Microsoft.VisualStudio.Services.Icons.Default" alt="Azure ML">
 </a>
 
 
@@ -89,8 +89,8 @@ Synapse
 Azure ML
 </td>
 <td align="center" width="96">
-<a href="https://azure.microsoft.com/es-es/products/ai-services/openai-service/">
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" alt="Azure OpenAI">
+<a href="https://ai.azure.com/">
+<img src="https://ai.azure.com/favicon.ico" alt="Azure Foundry">
 </a>
 
 

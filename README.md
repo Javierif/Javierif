@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f7bbb432-1345-4ced-86f7-dac16d5df525" /><h1 align="center">👋 ¡Hola! Soy Javier Iniesta Fernández</h1>
+<h1 align="center">👋 ¡Hola! Soy Javier Iniesta Fernández</h1>
 <h3 align="center">Data & AI Architect | Diseñando Ecosistemas de Datos Inteligentes</h3>
 
 <p align="center">
@@ -20,7 +20,6 @@ Data Mesh, RAG y ML en producción. Construyo soluciones donde la IA amplifica e
 ---
 
 # 🎤 Charlas y Artículos Destacados
-*(Carrusel horizontal compatible con GitHub)*
 
 <div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px;">
   <!-- Shiu Podcast -->

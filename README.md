@@ -28,7 +28,7 @@ Data Mesh, RAG y ML en producción. Construyo soluciones donde la IA amplifica e
   </a>
   <!-- IA salvador Europa -->
   <a href="https://www.linkedin.com/pulse/la-ia-es-el-salvador-de-una-europa-acomodada-javier-iniesta-fernandez-l1wxf/" target="_blank">
-    <img src="https://www.linkedin.com/pulse/la-ia-es-el-salvador-de-una-europa-acomodada-javier-iniesta-fernandez-l1wxf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Brxc0nLc1RISm3DHgAzbxWg%3D%3D" width="300" alt="La IA es el salvador de una Europa acomodada">
+    <img src="https://github.com/user-attachments/assets/93681f8f-1d56-4bc6-b1a9-1363d2253fa3" width="300" alt="La IA es el salvador de una Europa acomodada">
   </a>
   <!-- Codemotion 23 -->
   <a href="https://www.youtube.com/watch?v=2mSB5XROJs0" target="_blank">
@@ -36,7 +36,7 @@ Data Mesh, RAG y ML en producción. Construyo soluciones donde la IA amplifica e
   </a>
   <!-- Fabric Eventhouse -->
   <a href="https://www.compartimoss.com/revistas/numero-61/microsoft-fabric-azure-data-explorer/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQFF9GPxKf3ySQ/articleshare-shrink_800/articleshare-shrink_800/0/1726650858328?e=1764014400&v=beta&t=1A5Mmkx0LkBYfM0DlPeh_P_18M8fLrIO_x4f88qiIXM" width="300" alt="Fabric Eventhouse artículo">
+    <img src="https://github.com/user-attachments/assets/c518f0f3-6792-4cad-99fb-58cdb8edc5ce" width="300" alt="Fabric Eventhouse artículo">
   </a>
   <!-- Predicción Demanda -->
   <a href="https://www.linkedin.com/pulse/predicci%C3%B3n-de-demanda-con-azure-machine-learning-y-ml-javier/" target="_blank">

@@ -21,28 +21,42 @@ Data Mesh, RAG y ML en producción. Construyo soluciones donde la IA amplifica e
 
 # 🎤 Charlas y Artículos Destacados
 
-<div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px;">
-  <!-- Shiu Podcast -->
-  <a href="https://www.youtube.com/watch?v=zi8kEP1SbB4" target="_blank">
-    <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEVICb6vi43CA/articleshare-shrink_800/B4DZaFz6GVGgAQ-/0/1746001699749?e=1764010800&v=beta&t=43qOL7LpQidJHIAfq9XK35MKzozRJRYhH4cKQwiOxYE" width="300" alt="Shiu Podcast Javier Iniesta">
-  </a>
-  <!-- IA salvador Europa -->
-  <a href="https://www.linkedin.com/pulse/la-ia-es-el-salvador-de-una-europa-acomodada-javier-iniesta-fernandez-l1wxf/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/93681f8f-1d56-4bc6-b1a9-1363d2253fa3" width="300" alt="La IA es el salvador de una Europa acomodada">
-  </a>
-  <!-- Codemotion 23 -->
-  <a href="https://www.youtube.com/watch?v=2mSB5XROJs0" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a56356c3-ef64-4d10-a71e-0b1844267e3f" width="300" alt="Codemotion Javier Iniesta">
-  </a>
-  <!-- Fabric Eventhouse -->
-  <a href="https://www.compartimoss.com/revistas/numero-61/microsoft-fabric-azure-data-explorer/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c518f0f3-6792-4cad-99fb-58cdb8edc5ce" width="300" alt="Fabric Eventhouse artículo">
-  </a>
-  <!-- Predicción Demanda -->
-  <a href="https://www.linkedin.com/pulse/predicci%C3%B3n-de-demanda-con-azure-machine-learning-y-ml-javier/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/159ce06b-f486-42cc-b4d5-084341335d90" width="300" alt="Predicción de demanda Azure ML">
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=zi8kEP1SbB4" target="_blank">
+        <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEVICb6vi43CA/articleshare-shrink_800/B4DZaFz6GVGgAQ-/0/1746001699749?e=1764010800&v=beta&t=43qOL7LpQidJHIAfq9XK35MKzozRJRYhH4cKQwiOxYE" width="260">
+      </a>
+      <p><strong>🎙️ Shiu Podcast: Episodio 10</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/pulse/la-ia-es-el-salvador-de-una-europa-acomodada-javier-iniesta-fernandez-l1wxf/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/93681f8f-1d56-4bc6-b1a9-1363d2253fa3" width="260" height="260">
+      </a>
+      <p><strong>🇪🇺 IA: El Salvador de una Europa Acomodada</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=2mSB5XROJs0" target="_blank">
+        <img src="https://github.com/user-attachments/assets/a56356c3-ef64-4d10-a71e-0b1844267e3f" width="260" height="260">
+      </a>
+      <p><strong>🕹️ Invasión Zerg – Codemotion 23</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://www.compartimoss.com/revistas/numero-61/microsoft-fabric-azure-data-explorer/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/ac9dfbfb-70ab-4fea-84ec-1416b77bdc4d" width="260" height="260">
+      </a>
+      <p><strong>📊 Microsoft Fabric & Eventhouse</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/pulse/predicci%C3%B3n-de-demanda-con-azure-machine-learning-y-ml-javier/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/159ce06b-f486-42cc-b4d5-084341335d90" width="260" height="260">
+      </a>
+      <p><strong>🤖 Predicción de Demanda con Azure ML</strong></p>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -83,15 +97,11 @@ Data Mesh, RAG y ML en producción. Construyo soluciones donde la IA amplifica e
 
 ### 🎓 Certificaciones Microsoft
 <p align="left">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fabric-analytics-engineer-associate.png" width="110">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-ai-engineer-associate.png" width="110">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-data-scientist-associate.png" width="110">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-data-fundamentals.png" width="110">
+  <img width="110" src="https://github.com/user-attachments/assets/99c76239-c5b3-4428-a57a-1050546b12eb" />
+  <img width="110" src="https://github.com/user-attachments/assets/00d801c3-f521-4974-bd7c-37565fe00c43" />
+  <img width="110" src="https://github.com/user-attachments/assets/acb644b9-4274-4ced-84e7-b425b7720dc1" />
+  <img width="110" src="https://github.com/user-attachments/assets/129e536d-f05b-4016-8aa3-917250c476f4" />
 </p>
-
-### Otros:
-- Generative AI Studio  
-- Scrum Master & Scrum Foundations  
 
 ---
 

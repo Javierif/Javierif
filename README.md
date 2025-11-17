@@ -1,12 +1,4 @@
 <h1>¡Hola! Soy Javier Iniesta Fernandez 👋</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/javierif">
-<img alt="LinkedIn" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite">
-</a>
-<a href="mailto:javier.ifer@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
 <h2>Data & IA Architect | Diseñando Ecosistemas de Datos Inteligentes</h2>
 <p>
 Como Data & AI Architect, diseño e implemento plataformas cloud escalables y ecosistemas de datos inteligentes que permiten
@@ -33,7 +25,7 @@ Si te interesa explorar cómo la IA puede acelerar la innovación, ¡conversemos
 <tr>
 <td align="center" width="96">
 <a href="https://docs.microsoft.com/es-es/azure/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure">
 </a>
 
 
@@ -43,7 +35,7 @@ Azure
 </td>
 <td align="center" width="96">
 <a href="https://databricks.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Databricks">
+<img src="https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Databricks">
 </a>
 
 
@@ -53,7 +45,7 @@ Databricks
 </td>
 <td align="center" width="96">
 <a href="https://spark.apache.org/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache_Spark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapachespark%26logoColor%3Dwhite" alt="Spark">
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapachespark%26logoColor%3Dwhite" alt="Spark">
 </a>
 
 
@@ -62,8 +54,8 @@ Databricks
 Spark
 </td>
 <td align="center" width="96">
-<a href="https://www.google.com/search?q=https://www.microsoft.com/es-es/fabric">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MS_Fabric-3C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft%26logoColor%3Dwhite" alt="Fabric">
+<a href="https://www.microsoft.com/es-es/fabric">
+<img src="https://img.shields.io/badge/MS_Fabric-3C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft%26logoColor%3Dwhite" alt="Fabric">
 </a>
 
 
@@ -73,7 +65,7 @@ Fabric
 </td>
 <td align="center" width="96">
 <a href="https://azure.microsoft.com/es-es/products/synapse-analytics/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure_Synapse-00B2A0%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Synapse">
+<img src="https://img.shields.io/badge/Azure_Synapse-00B2A0%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Synapse">
 </a>
 
 
@@ -87,8 +79,8 @@ Synapse
 <table>
 <tr>
 <td align="center" width="96">
-<a href="https://www.google.com/search?q=https://azure.microsoft.com/es-es/solutions/machine-learning/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure_ML-22C5E1%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure ML">
+<a href="https://azure.microsoft.com/es-es/solutions/machine-learning/">
+<img src="https://img.shields.io/badge/Azure_ML-22C5E1%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure ML">
 </a>
 
 
@@ -98,7 +90,7 @@ Azure ML
 </td>
 <td align="center" width="96">
 <a href="https://azure.microsoft.com/es-es/products/ai-services/openai-service/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure_OpenAI-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" alt="Azure OpenAI">
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" alt="Azure OpenAI">
 </a>
 
 
@@ -108,7 +100,7 @@ Azure OpenAI
 </td>
 <td align="center" width="96">
 <a href="https://www.langchain.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-1E90FF%3Fstyle%3Dfor-the-badge%26logo%3Dlangchain%26logoColor%3Dwhite" alt="LangChain">
+<img src="https://img.shields.io/badge/LangChain-1E90FF%3Fstyle%3Dfor-the-badge%26logo%3Dlangchain%26logoColor%3Dwhite" alt="LangChain">
 </a>
 
 
@@ -118,7 +110,7 @@ LangChain
 </td>
 <td align="center" width="96">
 <a href="https://kubernetes.io/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes">
 </a>
 
 
@@ -128,7 +120,7 @@ Kubernetes
 </td>
 <td align="center" width="96">
 <a href="https://learn.microsoft.com/es-es/azure/search/search-what-is-azure-search">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/RAG_/_AI_Search-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="RAG / AI Search">
+<img src="https://img.shields.io/badge/RAG_/_AI_Search-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="RAG / AI Search">
 </a>
 
 
@@ -143,7 +135,7 @@ RAG
 <tr>
 <td align="center" width="96">
 <a href="https://www.python.org/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
+<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
 </a>
 
 
@@ -153,7 +145,7 @@ Python
 </td>
 <td align="center" width="96">
 <a href="https://www.docker.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
+<img src="https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
 </a>
 
 
@@ -163,7 +155,7 @@ Docker
 </td>
 <td align="center" width="96">
 <a href="https://dotnet.microsoft.com/es-es/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/.NET-512BD4%3Fstyle%3Dfor-the-badge%26logo%3Ddotnet%26logoColor%3Dwhite" alt=".NET">
+<img src="https://img.shields.io/badge/.NET-512BD4%3Fstyle%3Dfor-the-badge%26logo%3Ddotnet%26logoColor%3Dwhite" alt=".NET">
 </a>
 
 
@@ -173,7 +165,7 @@ Docker
 </td>
 <td align="center" width="96">
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#">
+<img src="https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#">
 </a>
 
 
@@ -183,7 +175,7 @@ C#
 </td>
 <td align="center" width="96">
 <a href="https://www.r-project.org/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R">
+<img src="https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R">
 </a>
 
 
@@ -198,7 +190,7 @@ R
 <tr>
 <td align="center" width="96">
 <a href="https://powerbi.microsoft.com/es-es/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI">
+<img src="https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI">
 </a>
 
 
@@ -208,7 +200,7 @@ Power BI
 </td>
 <td align="center" width="96">
 <a href="https://www.microsoft.com/es-es/sql-server">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL_Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftsqlserver%26logoColor%3Dwhite" alt="SQL Server">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftsqlserver%26logoColor%3Dwhite" alt="SQL Server">
 </a>
 
 
@@ -228,7 +220,7 @@ MySQL
 </td>
 <td align="center" width="96">
 <a href="https://react.dev/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React">
+<img src="https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React">
 </a>
 
 
@@ -250,8 +242,8 @@ Angular
 </table>
 <h2>📊 Mis Estadísticas de Actividad en GitHub</h2>
 <p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTU_USUARIO_DE_GITHUB%26show_icons%3Dtrue%26theme%3Dtransparent%26locale%3Des%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Estadísticas de GitHub de Javier">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTU_USUARIO_DE_GITHUB%26layout%3Dcompact%26theme%3Dtransparent%26locale%3Des" alt="Lenguajes Más Usados por Javier">
+<img height="180em" src="https://github-readme-stats.vercel.app/api%3Fusername%3DTU_USUARIO_DE_GITHUB%26show_icons%3Dtrue%26theme%3Dtransparent%26locale%3Des%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Estadísticas de GitHub de Javier">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTU_USUARIO_DE_GITHUB%26layout%3Dcompact%26theme%3Dtransparent%26locale%3Des" alt="Lenguajes Más Usados por Javier">
 </p>
 <h2>💡 Proyecto Social Destacado: SAME - IA contra el CiberBullying</h2>
 <p>

@@ -111,7 +111,7 @@ Data Mesh, RAG y ML en producción. Construyo soluciones donde la IA amplifica e
 # 📬 Contacto
 Si te interesa IA Generativa, Arquitecturas Cloud, Data Mesh o proyectos con impacto real:
 
-👉 **[Conecta conmigo en LinkedIn](https://linkedin.com/IN/LOQUESEA)**  
+👉 **[Conecta conmigo en LinkedIn](https://linkedin.com/in/javierif)**  
 👉 **Abierto a charlas, colaboraciones y debates sobre IA aplicada**  
 
 ---

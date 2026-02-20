@@ -25,7 +25,7 @@ Data Mesh, RAG y ML en producción. Construyo soluciones donde la IA amplifica e
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=zi8kEP1SbB4" target="_blank">
-        <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEVICb6vi43CA/articleshare-shrink_800/B4DZaFz6GVGgAQ-/0/1746001699749?e=1764010800&v=beta&t=43qOL7LpQidJHIAfq9XK35MKzozRJRYhH4cKQwiOxYE" width="260">
+        <img src="https://github.com/user-attachments/assets/ada91c48-abfb-47a1-8bf8-0857ea46f0cd" width="260">
       </a>
       <p><strong>🎙️ Shiu Podcast – Episodio 10</strong></p>
     </td>
